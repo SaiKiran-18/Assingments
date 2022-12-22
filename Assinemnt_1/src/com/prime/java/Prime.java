@@ -12,7 +12,7 @@ package com.prime.java;
 	public static void main(String args[]) {
 		Prime prime=new Prime();
 		if(prime.Check(673)) {
-			System.out.println("prime");
+		System.out.println("prime");
 		}
 		else {
 			System.out.println("Not prime");
