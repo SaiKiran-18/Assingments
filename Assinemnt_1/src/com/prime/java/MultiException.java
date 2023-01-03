@@ -25,6 +25,7 @@ public class MultiException {
 		if(b%2 == 1) {
 			System.out.println("The given number is odd");
 		}
+		
 	}
 	catch(Exception e) {
 		System.out.println("please give a value which remainder is 1");
