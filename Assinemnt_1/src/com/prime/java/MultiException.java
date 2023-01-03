@@ -19,6 +19,7 @@ public class MultiException {
 	}
 	finally {
 		System.out.println("The even block is completed");
+		
 	}
 	try {
 		if(b%2 == 1) {
